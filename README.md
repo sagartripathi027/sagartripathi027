@@ -26,7 +26,7 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 - Basic HTML & CSS  
 
 **Backend (Learning & Practice)**
-- Django (Basics)
+- Django(basic)
 - flask(basic) 
 - REST APIs (Fundamentals)  
 
@@ -43,36 +43,26 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 **Tools**
 - Git & GitHub  
 - VS Code  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Docker  
 
 ---
 3 
 ## 📌 Featured Projects  
 
 ### 🧠 FlowMind AI  
-> Natural Language Automation Platform  
-
-- Python + Django backend  
+> Natural Language Automation Platform
+- Node js + Mongo db
 - User authentication & workflows  
 - AI-based task automation concept  
 
 ### 🗳️ Online Voting System  
 > Secure & scalable voting platform  
 
-- Django + MySQL  
+- node js + MySQL 
 - Role-based authentication  
 - Admin & user dashboards  
 ---
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-
 
 ## 🤝 Connect  
 
