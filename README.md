@@ -50,12 +50,6 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 3 
 ## 📌 Featured Projects  
 
-### 🧠 FlowMind AI  
-> Natural Language Automation Platform
-- Node js + Mongo db
-- User authentication & workflows  
-- AI-based task automation concept  
-
 ### 🗳️ Online Voting System  
 > Secure & scalable voting platform  
 
@@ -66,7 +60,7 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 
 ## 🤝 Connect  
 
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 💼 GitHub:https://github.com/sagartripathi027
 - 📧 Email:-sagartripathi027@gmail.com  
 
 ---
