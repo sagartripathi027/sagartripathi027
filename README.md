@@ -1,9 +1,11 @@
 # Hi 👋, I'm Sagar Tripathi  
 
 📊 Data Science Student | 🐍 Python Developer  
-Interested in **Backend Development, Data Science, Analytics & AI Projects**
+Interested in **Data Science, Analytics, Machine Learning & AI Projects**
 
-I enjoy working with **Python-based applications**, learning how data can be turned into insights, and building backend systems that support real-world use cases.
+Computer Science undergraduate (AI & Data Science) with hands-on experience in Python and workflow
+automa tion. Actively exploring AI, data science, Machine Learning and modern tools to develop efficient
+and intelligent solutions.
 
 ---
 
@@ -23,12 +25,12 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 **Programming**
 - Python  
 - SQL  
-- Basic HTML & CSS  
+- Basic HTML, CSS & Java Script
 
 **Backend (Learning & Practice)**
-- Django(basic)
-- flask(basic) 
-- REST APIs (Fundamentals)  
+- Django
+- flask 
+- Fast API 
 
 **Data Science & Analytics**
 - NumPy  
@@ -38,24 +40,74 @@ I enjoy working with **Python-based applications**, learning how data can be tur
 
 **Databases**
 - MySQL  
-- SQLite  
+- PostgreSQL
+- Mongo DB
 
 **Tools**
 - Git & GitHub  
 - VS Code  
 - Jupyter Notebook
-- Docker  
+- Docker
+- Power BI
 
 ---
 3 
 ## 📌 Featured Projects  
 
-### 🗳️ Online Voting System  
-> Secure & scalable voting platform  
+## 🧠 AI Data Science Agent
 
-- node js + MySQL 
-- Role-based authentication  
-- Admin & user dashboards  
+**Tech Stack:** Python · Pandas · NumPy  
+
+### ✨ Features
+- ⚙️ Automated data cleaning and preprocessing pipeline  
+- 🔄 Data transformation and feature engineering  
+- 📊 Statistical analysis using Pandas and NumPy  
+- 📈 Insight generation for data-driven decision making  
+- 📄 Structured report generation  
+
+### 📌 Use Cases
+- Exploratory Data Analysis (EDA)  
+- Business insights generation  
+- Dataset preprocessing automation  
+
+---
+
+## 🌐 Web Scraping & Data Pipeline
+
+**Tech Stack:** Python · BeautifulSoup · Requests · Pandas  
+
+### ✨ Features
+- 🌍 Scrapes structured data from multiple websites  
+- 🔁 Automated data collection pipeline  
+- 🧹 Data cleaning and preprocessing using Pandas  
+- 💾 Stores data in CSV / JSON formats  
+- ⚡ Ready for downstream analytics & ML workflows  
+
+### 📌 Use Cases
+- Market research data collection  
+- Dataset creation for ML models  
+- Real-time data aggregation  
+
+---
+
+# 🗳️ Online Voting System
+
+**Tech Stack:** Node.js · MySQL  
+
+> A secure and scalable voting platform with role-based access.
+
+### ✨ Features
+- 🔐 Role-based authentication (Admin & Users)  
+- 🧑‍💼 Admin dashboard to manage elections  
+- 👤 User dashboard to cast votes  
+- 🗳️ Secure voting mechanism  
+- 📊 Real-time vote tracking & results  
+
+### 📌 Use Cases
+- College elections  
+- Organization-level voting  
+- Secure digital polling systems  
+
 ---
 
 ## 🤝 Connect  
