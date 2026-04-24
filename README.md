@@ -51,7 +51,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-181818?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-181818?style=for-the-badge&logo=python&logoColor=11557C)](https://matplotlib.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-181818?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
 
 **Databases**
 
