@@ -90,12 +90,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagartripathi027&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > *I believe every dataset tells a story — my job is to find it!*
