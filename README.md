@@ -76,11 +76,13 @@
 - 📊 Statistical analysis and insight generation  
 - 📄 Structured report generation for EDA  
 
-### 🌐 Web Scraping & Data Pipeline
+### 🌐 Job Scraping & Data Pipeline
 **Tech Stack:** Python · BeautifulSoup · Requests · Pandas  
-- 🌍 Scrapes structured data from multiple websites  
-- 🧹 Data cleaning and preprocessing using Pandas  
-- 💾 Stores data in CSV/JSON for downstream ML workflows  
+- 💼 Scrapes live job listings from multiple job portals  
+- 🔍 Filters jobs by role, location, and skills automatically  
+- 🧹 Cleans and structures job data using Pandas  
+- 💾 Exports results to CSV/JSON for analysis and tracking  
+
 
 ### 🗳️ Online Voting System
 **Tech Stack:** Node.js · MySQL  
