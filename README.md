@@ -77,6 +77,8 @@ Tech Stack: Python, Flask, SQL, HTML, CSS, JavaScript
 Developed a secure web-based voting system with JWT-based authentication and role-based access control (RBAC).
 Implemented real-time vote counting with dynamic result visualization.
 Ensured data integrity and built secure API endpoints.
+
+
 💼 Job Scraping & Data Pipeline
 
 Tech Stack: Python, BeautifulSoup, Requests, Pandas
