@@ -72,12 +72,29 @@
 
 🗳️ Online Voting System
 
-Tech Stack: Python, Flask, SQL, HTML, CSS, JavaScript
+Tech Stack: Python · Flask · SQL · HTML · CSS · JavaScript
 
-Developed a secure web-based voting system with JWT-based authentication and role-based access control (RBAC).
-Implemented real-time vote counting with dynamic result visualization.
-Ensured data integrity and built secure API endpoints.
+Developed a secure web-based voting system using JWT authentication and Role-Based Access Control (RBAC)
+Implemented real-time vote counting with dynamic result visualization
+Ensured data integrity through validation, secure APIs, and access control mechanisms
+Built a responsive interface for improved usability
+🤖 AI Data Science Agent
 
+Tech Stack: Python · Pandas · NumPy
+
+Built an automated data analysis pipeline for cleaning, transforming, and processing datasets
+Performed statistical analysis and feature extraction using Pandas and NumPy
+Generated structured reports and summaries for data-driven decision making
+Designed reusable workflows for scalable data processing
+
+📄 AI Doc Extractor – Intelligent Document Processing System
+
+Tech Stack: Python, Flask, OCR (Tesseract), NLP
+
+Built an automated document extraction system to extract structured text from images and PDFs.
+Integrated OCR using Tesseract for accurate text recognition.
+Applied image preprocessing techniques (denoising, thresholding) to improve extraction accuracy.
+Designed a modular Flask backend for file uploads and processing pipelines.
 
 💼 Job Scraping & Data Pipeline
 
