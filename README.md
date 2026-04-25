@@ -70,25 +70,29 @@
 
 ## 📌 Featured Projects
 
-### 🧠 AI Data Science Agent
-**Tech Stack:** Python · Pandas · NumPy  
-- ⚙️ Automated data cleaning and preprocessing pipeline  
-- 📊 Statistical analysis and insight generation  
-- 📄 Structured report generation for EDA  
+📄 AI Doc Extractor – Intelligent Document Processing System
 
-### 🌐 Job Scraping & Data Pipeline
-**Tech Stack:** Python · BeautifulSoup · Requests · Pandas  
-- 💼 Scrapes live job listings from multiple job portals  
-- 🔍 Filters jobs by role, location, and skills automatically  
-- 🧹 Cleans and structures job data using Pandas  
-- 💾 Exports results to CSV/JSON for analysis and tracking  
+Tech Stack: Python, Flask, OCR (Tesseract), NLP
 
+Built an automated document extraction system to extract structured text from images and PDFs.
+Integrated OCR using Tesseract for accurate text recognition.
+Applied image preprocessing techniques (denoising, thresholding) to improve extraction accuracy.
+Designed a modular Flask backend for file uploads and processing pipelines.
+🗳️ Online Voting System
 
-### 🗳️ Online Voting System
-**Tech Stack:** Node.js · MySQL  
-- 🔐 Role-based authentication (Admin & Users)  
-- 📊 Real-time vote tracking & results  
-- 🧑‍💼 Admin dashboard to manage elections  
+Tech Stack: Python, Flask, SQL, HTML, CSS, JavaScript
+
+Developed a secure web-based voting system with JWT-based authentication and role-based access control (RBAC).
+Implemented real-time vote counting with dynamic result visualization.
+Ensured data integrity and built secure API endpoints.
+💼 Job Scraping & Data Pipeline
+
+Tech Stack: Python, BeautifulSoup, Requests, Pandas
+
+Built an automated job scraping system to extract job listings from multiple platforms.
+Collected structured data such as job titles, company names, locations, and requirements.
+Developed data cleaning and preprocessing pipelines using Pandas.
+Stored processed data in CSV and JSON formats for further analysis and insights.
 
 ---
 
