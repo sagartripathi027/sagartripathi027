@@ -78,6 +78,7 @@ Developed a secure web-based voting system using JWT authentication and Role-Bas
 Implemented real-time vote counting with dynamic result visualization
 Ensured data integrity through validation, secure APIs, and access control mechanisms
 Built a responsive interface for improved usability
+
 🤖 AI Data Science Agent
 
 Tech Stack: Python · Pandas · NumPy
