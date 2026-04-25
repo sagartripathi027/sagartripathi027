@@ -70,14 +70,6 @@
 
 ## 📌 Featured Projects
 
-📄 AI Doc Extractor – Intelligent Document Processing System
-
-Tech Stack: Python, Flask, OCR (Tesseract), NLP
-
-Built an automated document extraction system to extract structured text from images and PDFs.
-Integrated OCR using Tesseract for accurate text recognition.
-Applied image preprocessing techniques (denoising, thresholding) to improve extraction accuracy.
-Designed a modular Flask backend for file uploads and processing pipelines.
 🗳️ Online Voting System
 
 Tech Stack: Python, Flask, SQL, HTML, CSS, JavaScript
