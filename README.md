@@ -112,26 +112,6 @@ Automated job scraping system with pagination, retry logic and CSV/JSON export.
 
 **Tech:** Python • BeautifulSoup • Requests • Pandas
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagartripathi027&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagartripathi027&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagartripathi027&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://portfoliovercelapp-six.vercel.app/)
