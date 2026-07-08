@@ -114,16 +114,6 @@ Automated job scraping system with pagination, retry logic and CSV/JSON export.
 
 ---
 
-# 📜 Certifications
-
-🏆 Oracle Cloud Infrastructure AI Foundations Associate
-
-🏆 Google Cloud Generative AI
-
-🏆 Cisco Introduction to Cybersecurity
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
