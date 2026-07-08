@@ -112,7 +112,8 @@ Automated job scraping system with pagination, retry logic and CSV/JSON export.
 
 **Tech:** Python • BeautifulSoup • Requests • Pandas
 
-# 🌐 Connect With Me## 🌐 Connect With Me
+# 🌐 Connect With Me## 
+
 
 <p align="center">
 
