@@ -121,7 +121,6 @@ OCR-based document intelligence system for extracting information from **images 
 - 🧠 Deep Learning & PyTorch
 - 🤖 Transformers & LLMs
 - 🔎 Advanced RAG & AI Agents
-- 🧩 DSA with Python
 - ⚡ Backend Architecture
 - 🐳 Docker & Linux
 - ☁️ AWS & AI Deployment
