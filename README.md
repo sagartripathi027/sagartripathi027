@@ -116,14 +116,6 @@ OCR-based document intelligence system for extracting information from **images 
 
 ---
 
-### 🧠 GraphRAG Engine
-
-Experimental AI system exploring **knowledge graphs, Retrieval-Augmented Generation, and agent-based workflows** for intelligent information retrieval.
-
-**Tech:** Python • LangGraph • RAG • Neo4j • LLMs
-
----
-
 ## 🌱 Currently Learning
 
 - 🧠 Deep Learning & PyTorch
