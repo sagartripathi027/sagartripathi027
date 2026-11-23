@@ -1,12 +1,13 @@
-# <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Sagar+Tripathi;AI+Engineer+Aspirant;Python+%7C+Machine+Learning%7C+FastAPI+%7C+RAG+%7C+Backend+Development)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sagar+Tripathi;AI+Engineer+%7C+Backend+Developer;Python+%7C+Machine+Learning+%7C+FastAPI;RAG+%7C+LLMs+%7C+Backend+Development)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer coding animation"/>
 
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
 
 ---
 
